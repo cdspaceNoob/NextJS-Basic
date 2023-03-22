@@ -1,0 +1,8 @@
+.detail {
+  text-align: center;
+}
+
+/* detail 내의 img에만 적용한다 */
+.detail img {
+  width: 100%;
+}
